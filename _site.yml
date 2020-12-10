@@ -1,0 +1,7 @@
+name: "Family tree of Anders Tolver"
+output_dir: "docs"
+navbar:
+  title: ""
+  left:
+    - text: "Oversigt"
+      href: index.html
